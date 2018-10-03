@@ -1,0 +1,34 @@
+#This code was taken from the HS560 Course notes and developed to create random missing values in a data.frame
+
+set.seed(123)
+# create MCAR missing-data generator
+create.missing <- function (data, pct.mis = 10) 
+{
+  n <- nrow(data)
+  J <- ncol(data)
+  if (length(pct.mis) == 1) {
+    if(pct.mis>= 0 & pct.mis <=100) {
+      n.mis <- rep((n * (pct.mis/100)), J)
+    }
+    else {
+      warning("Percent missing values should be an integer between 0 and 100! Exiting"); break
+    }
+  }
+  else {
+    if (length(pct.mis) < J) 
+      stop("The length of the missing-vector is not equal to the number of columns in the data! Exiting!")
+    n.mis <- n * (pct.mis/100)
+  }
+  for (i in 1:ncol(data)) {
+    if (n.mis[i] == 0) { # if column has no missing do nothing.
+      data[, i] <- data[, i]
+    }
+    else {
+      data[sample(1:n, n.mis[i], replace = FALSE), i] <- NA
+      # For each given column (i), sample the row indices (1:n), 
+      # a number of indices to replace as "missing", n.mis[i], "NA", 
+      # without replacement
+    }
+  }
+  return(as.data.frame(data))
+}
