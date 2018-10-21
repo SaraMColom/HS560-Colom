@@ -13,8 +13,6 @@ d <- as.numeric((-1)*normVec %*% dMean)  # force the plane to go through the mea
 list("NormVec"=normVec,"dmean"=dMean,"d"=d)
 }
 
-Results<-NormVec_dmean(Matrix=pca1,x=MyData$x,y=MyData$y,z=MyData$z)
-
 # Create regression plane for bivariate linear model
 ###   Define 3d features
 
