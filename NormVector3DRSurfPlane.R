@@ -32,3 +32,4 @@ residuals<-fit$residuals
 list("x.seq"=x.seq,"y.seq"=y.seq,z=z,residuals=residuals)
 }
 
+
