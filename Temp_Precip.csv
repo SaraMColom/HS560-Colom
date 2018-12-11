@@ -1,0 +1,267 @@
+"COUNTRY","Last","Previous","Rainfall","iso3c"
+"Afghanistan",2.88,7.73,327,"AF"
+"Albania",3.89,9.29,1485,"AL"
+"Algeria",13.35,18.21,89,"DZ"
+"American Samoa",27.66,27.78,NA,"AS"
+"Andorra",7.08,9.76,NA,"AD"
+"Angola",23.52,23.43,NA,"AO"
+"Antigua and Barbuda",25.96,26.29,1030,"AG"
+"Argentina",20.31,17.27,591,"AR"
+"Armenia",-4.14,2.94,562,"AM"
+"Aruba",28.42,28.46,NA,"AW"
+"Australia",28.06,26.95,534,"AU"
+"Austria",1.39,4.91,1110,"AT"
+"Azerbaijan",1.48,6.09,447,"AZ"
+"Bahamas",28.66,28.8,NA,"BS"
+"Bahrain",18.37,24.14,83,"BH"
+"Bangladesh",18.44,23.08,2666,"BD"
+"Barbados",26.8,27.27,1422,"BB"
+"Belarus",1.7,3.9,618,"BY"
+"Belgium",8.59,9.49,847,"BE"
+"Belize",25.18,25.39,1705,"BZ"
+"Benin",25.99,28.1,1039,"BJ"
+"Bhutan",18.37,18.97,2200,"BT"
+"Bolivia",18.5,18.23,1146,"BO"
+"Bosnia and Herzegovina",22.81,22.29,1028,"BA"
+"Botswana",18.51,16.66,416,"BW"
+"Brazil",24.74,24.2,1782,"BR"
+"Brunei",NA,NA,2722,"BN"
+"Bulgaria",1.95,8.67,608,"BG"
+"Burkina Faso",24.16,28.19,748,"BF"
+"Burma",NA,NA,2091,"MM"
+"Burundi",21.08,20.68,1274,"BI"
+"Cambodia",27.6,28.12,1904,"KH"
+"Cameroon",23.31,24.98,1604,"CM"
+"Canada",-18.18,-11.98,537,"CA"
+"Cape Verde",23.05,24.5,228,"CV"
+"Catholic countries average
+                                            (profile)",NA,NA,1391.74,NA
+"Cayman Islands",27.9,28.2,NA,"KY"
+"Central African Republic",23.56,25.59,1343,"CF"
+"Chad",20.03,25.07,322,"TD"
+"Chile",11.9,9.62,1522,"CL"
+"China",-5.24,0.67,NA,"CN"
+"Cold countries average
+                                            (profile)",NA,NA,861.97,NA
+"Colombia",25.45,25.5,2612,"CO"
+"Comoros",27.62,26.92,900,"KM"
+"Congo",23.83,23.6,NA,"CG"
+"Congo, Republic of the",NA,NA,1646,"CG"
+"Costa Rica",24.61,25.12,2926,"CR"
+"Cote d'Ivoire",NA,NA,1348,"CI"
+"Croatia",23.56,23.81,1113,"HR"
+"Cuba",28.42,27.93,1335,"CU"
+"Cyprus",28.04,27.21,498,"CY"
+"Czech Republic",18.66,20.16,677,"CZ"
+"Democratic Republic of the Congo",NA,NA,1543,"CD"
+"Denmark",-3.78,-0.9,703,"DK"
+"Djibouti",34.53,34.01,220,"DJ"
+"Dominica",28.25,28.17,2083,"DM"
+"Dominican Republic",28.05,27.86,1410,"DO"
+"Eastern Europe average
+                                            (profile)",NA,NA,755.94,NA
+"Ecuador",21.51,21.24,2087,"EC"
+"Egypt",13.83,20.11,NA,"EG"
+"El Salvador",24.47,24.33,1724,"SV"
+"Emerging markets average
+                                            (profile)",NA,NA,1186.08,NA
+"Equatorial Guinea",25,25.3,2156,"GQ"
+"Eritrea",23.7,26.59,384,"ER"
+"Estonia",2.29,4.26,626,"EE"
+"Ethiopia",21.97,22.68,848,"ET"
+"Europe average
+                                            (profile)",NA,NA,822.61,NA
+"European Union average
+                                            (profile)",NA,NA,771.5,NA
+"Eurozone average
+                                            (profile)",NA,NA,787.5,NA
+"failed states average
+                                            (profile)",NA,NA,931.46,NA
+"Faroe Islands",4.81,5.76,NA,"FO"
+"Fiji",24.95,24.48,2592,"FJ"
+"Finland",-3.79,0.1,536,"FI"
+"Former British colonies average
+                                            (profile)",NA,NA,1304.85,NA
+"Former French colonies average
+                                            (profile)",NA,NA,943.36,NA
+"Former Soviet republics average
+                                            (profile)",NA,NA,526.13,NA
+"Former Spanish colonies average
+                                            (profile)",NA,NA,1783.6,NA
+"France",7.7,9.65,867,"FR"
+"French Polynesia",25.97,25.24,NA,"PF"
+"Gabon",25.37,25.83,1831,"GA"
+"Gambia",26.95,28.92,NA,"GM"
+"Georgia",-3.49,2.97,1026,"GE"
+"Germany",6.65,7.84,700,"DE"
+"Ghana",26.65,28.1,1187,"GH"
+"Greece",5.93,12.04,652,"GR"
+"Greenland",-26.4,-24.95,350,"GL"
+"Grenada",28.41,28.35,2350,"GD"
+"Group of 7 countries (G7) average
+                                            (profile)",NA,NA,934.14,NA
+"Guam",27.58,28.07,NA,"GU"
+"Guatemala",25.66,24,1996,"GT"
+"Guinea",24.32,24.91,1651,"GN"
+"Guinea Bissau",25.72,27.13,NA,"GW"
+"Guinea-Bissau",NA,NA,1577,"GW"
+"Guyana",26.76,26.47,2387,"GY"
+"Haiti",28.58,28.53,1440,"HT"
+"Heavily indebted countries average
+                                            (profile)",NA,NA,1190.7,NA
+"High income OECD countries average
+                                            (profile)",NA,NA,944.47,NA
+"Honduras",26.79,24.92,1976,"HN"
+"Hong Kong",28.52,28.39,NA,"HK"
+"Hungary",2.61,7.06,589,"HU"
+"Iceland",-2.72,-0.91,1940,"IS"
+"India",18.62,22.35,1083,"IN"
+"Indonesia",26.41,26.55,2702,"ID"
+"Iran",6.54,11.87,NA,"IR"
+"Iraq",8.92,16.21,216,"IQ"
+"Ireland",7.77,8.45,1118,"IE"
+"Isle of Man",15.38,16.46,NA,"IM"
+"Israel",12.19,18.67,435,"IL"
+"Italy",6.69,9.9,832,"IT"
+"Ivory Coast",25.3,26.96,NA,"CI"
+"Jamaica",26.05,26.08,2051,"JM"
+"Japan",4.06,9.28,1668,"JP"
+"Jordan",8.92,15.97,111,"JO"
+"Kazakhstan",-3.3,-1.8,250,"KZ"
+"Kenya",26.52,25.14,630,"KE"
+"Kiribati",27.6,27.5,NA,"KI"
+"Kuwait",13.13,20.26,121,"KW"
+"Kyrgyzstan",-8.56,-3,533,"KG"
+"Laos",21.37,24.05,1834,"LA"
+"Latin America and Caribbean average
+                                            (profile)",NA,NA,1774.3,NA
+"Latvia",2.26,4.5,641,"LV"
+"Lebanon",8.19,13.44,661,"LB"
+"Lesotho",9.94,8.82,788,"LS"
+"Liberia",24.71,24.74,2391,"LR"
+"Libya",29.87,30.55,56,"LY"
+"Liechtenstein",14.83,16.66,NA,"LI"
+"Lithuania",17.87,18.37,656,"LT"
+"Luxembourg",18.46,20.42,934,"LU"
+"Macau",28.5,28.38,NA,"MO"
+"Macedonia",23.59,22.33,NA,"MK"
+"Madagascar",20.4,19.53,1513,"MG"
+"Malawi",25.56,25.97,1181,"MW"
+"Malaysia",25.98,25.79,2875,"MY"
+"Maldives",28.12,27.76,1972,"MV"
+"Mali",21.09,26.52,282,"ML"
+"Malta",14.12,17.85,560,"MT"
+"Marshall Islands",27.58,28.29,NA,"MH"
+"Mauritania",21.61,26.18,92,"MR"
+"Mauritius",25.95,24.31,2041,"MU"
+"Mayotte",28.32,27.75,NA,"YT"
+"Mexico",16.74,19.45,752,"MX"
+"Micronesia",27.59,27.85,NA,NA
+"Middle Eastern and North Africa average
+                                            (profile)",NA,NA,194.2,NA
+"Moldova",2.44,6.72,450,"MD"
+"Monaco",5.92,7.76,NA,"MC"
+"Mongolia",-15.9,-10.41,241,"MN"
+"Montenegro",1.8,6.33,NA,"ME"
+"Morocco",12.55,15.06,346,"MA"
+"Mozambique",27.5,27.16,1032,"MZ"
+"Muslim countries average
+                                            (profile)",NA,NA,717.77,NA
+"Myanmar",19.32,22.17,NA,"MM"
+"Namibia",25.25,24.21,285,"NA"
+"NATO countries average
+                                            (profile)",NA,NA,856.48,NA
+"Nepal",21.19,21.37,1500,"NP"
+"Netherlands",18.32,18.98,778,"NL"
+"New Caledonia",20.44,21.18,NA,"NC"
+"New Zealand",8.2,6.75,1732,"NZ"
+"Nicaragua",27.66,26.29,2391,"NI"
+"Niger",29.7,32.03,151,"NE"
+"Nigeria",25.14,26.62,1150,"NG"
+"Non-religious countries average
+                                            (profile)",NA,NA,877.82,NA
+"North Korea",-6.81,-0.33,NA,"KP"
+"Northern Mariana Islands",27.1,28,NA,"MP"
+"Norway",-2.91,-0.87,1414,"NO"
+"Oman",22.17,25.42,125,"OM"
+"OPEC countries average
+                                            (profile)",NA,NA,413.11,NA
+"Pakistan",10.83,16.09,494,"PK"
+"Palau",28.45,28.25,NA,"PW"
+"Palestine",12.65,18.8,NA,"PS"
+"Panama",25.61,25.55,2692,"PA"
+"Papua New Guinea",25.56,25.6,3142,"PG"
+"Paraguay",27.93,26.24,1130,"PY"
+"Peru",20.78,21.07,1738,"PE"
+"Philippines",25.79,26.25,2348,"PH"
+"Poland",4.28,5.51,600,"PL"
+"Portugal",10.55,13.25,854,"PT"
+"Puerto Rico",25.12,25.75,2054,"PR"
+"Qatar",19.07,24.72,74,"QA"
+"Religious countries average
+                                            (profile)",NA,NA,1049.38,NA
+"Republic of the Congo",24.92,25.19,NA,"CG"
+"Romania",21.61,20.86,637,"RO"
+"Russia",-20.43,-16.05,460,"RU"
+"Rwanda",21.08,20.02,1212,"RW"
+"Saint Kitts and Nevis",NA,NA,1427,"KN"
+"Saint Lucia",NA,NA,2301,"LC"
+"Saint Vincent and the Grenadines",NA,NA,1583,"VC"
+"Samoa",26.79,26.6,NA,"WS"
+"San Marino",24.65,24.3,NA,"SM"
+"Sao Tome and Principe",25.06,25.09,3200,"ST"
+"Saudi Arabia",34.68,35.71,59,"SA"
+"Senegal",27.6,29.41,686,"SN"
+"Serbia",23.08,22.04,NA,"RS"
+"Seychelles",26.95,26.54,2330,"SC"
+"Sierra Leone",25.08,25.25,2526,"SL"
+"Singapore",27.69,27.88,2497,"SG"
+"Slovakia",1.43,4.68,824,"SK"
+"Slovenia",1.91,6.21,1162,"SI"
+"Solomon Islands",26.15,25.97,3028,"SB"
+"Somalia",26.12,26.64,282,"SO"
+"South Africa",24.17,20.77,495,"ZA"
+"South and Central Asia average
+                                            (profile)",NA,NA,1061.15,NA
+"South Asia average
+                                            (profile)",NA,NA,1354,NA
+"South Korea",1.64,7.96,NA,"KR"
+"Spain",8.43,11.15,636,"ES"
+"Sri Lanka",26.51,26.43,1712,"LK"
+"St Kitts and Nevis",24.98,25.35,NA,"KN"
+"St Lucia",26.68,27.26,NA,"LC"
+"St Vincent and the Grenadines",27.24,27.81,NA,"VC"
+"Sub-Saharan Africa average
+                                            (profile)",NA,NA,1097,NA
+"Sudan",21.83,26.37,416,"SD"
+"Suriname",26.67,27.53,2331,"SR"
+"Swaziland",24.14,22.21,788,"SZ"
+"Sweden",-3.07,-0.62,624,"SE"
+"Switzerland",1.88,4.58,1537,"CH"
+"Syria",7.28,13.55,252,"SY"
+"Taiwan",27.97,27.87,NA,"TW"
+"Tajikistan",-5.95,-1.88,691,"TJ"
+"Tanzania",22.13,21,1071,"TZ"
+"Thailand",27.55,27.56,1622,"TH"
+"The Bahamas",NA,NA,1292,"BS"
+"The Gambia",NA,NA,836,"GM"
+"Togo",25.13,25.7,1168,"TG"
+"Tonga",21.88,21.83,NA,"TO"
+"Trinidad and Tobago",26.32,26.89,2200,"TT"
+"Tunisia",12.29,17.04,207,"TN"
+"Turkey",0.97,8.45,593,"TR"
+"Turkmenistan",5.42,8.2,161,"TM"
+"Uganda",23.42,23.01,1180,"UG"
+"Ukraine",1.52,5.15,565,"UA"
+"United Arab Emirates",20.76,24.98,78,"AE"
+"United Kingdom",6.92,8.21,1220,"GB"
+"United States",-1.42,2.45,715,"US"
+"Uruguay",22.85,19.52,1265,"UY"
+"Uzbekistan",2.68,4.82,206,"UZ"
+"Vanuatu",24.82,24.3,NA,"VU"
+"Venezuela",26.52,26.96,1875,"VE"
+"Vietnam",22.08,24.76,1821,"VN"
+"Virgin Islands",25.51,26.17,NA,NA
+"Yemen",20.15,22.22,NA,"YE"
+"Zambia",25.21,25.41,1020,"ZM"
+"Zimbabwe",19.76,17,NA,"ZW"
